@@ -26,11 +26,11 @@
 
 💼 **Experience**
 
-- FiveM developer for: Duinloop | BelgiumRP | Het Plein | Burgerveen | BelgiumRP V2 (current)
+- FiveM developer for: Duinloop | BelgiumRP | Het Plein | Burgerveen | BelgiumRP V2
 - Own projects: FiveM server, websites, react native applications, ...
 - Node | Lua | JS, HTML, CSS | Leaflet | React Native | C# | Java | SQL | Typescript | Angular | Git
 
 🔨 **Projects**
 
-- BelgiumRP V2: FiveM server ➡ https://discord.gg/24BtApX8Yk 
+- BelgiumRP V2: FiveM server
 - Het Plein Roleplay
