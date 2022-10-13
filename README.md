@@ -26,11 +26,13 @@
 
 💼 **Experience**
 
-- FiveM developer for: Duinloop | BelgiumRP | Het Plein | Burgerveen | BelgiumRP V2
+- FiveM developer for: Duinloop | BelgiumRP | Het Plein | Burgerveen | BelgiumRP V2 | Lumio Studio |Toxcity
 - Own projects: FiveM server, websites, react native applications, ...
-- Node | Lua | JS, HTML, CSS | Leaflet | React Native | C# | Java | SQL | Typescript | Angular | Git
+- Node | Lua | JS, HTML, CSS | Vue | React Native | C# | Java | SQL | Git
 
 🔨 **Projects**
 
-- BelgiumRP V2: FiveM server
+- BelgiumRP V2
 - Het Plein Roleplay
+- ToxcityRP
+- Lumio Studio
