@@ -15,24 +15,18 @@
   "information": [
         {
             "name": "jens",
-            "age": "21",
+            "age": "23",
             "country": "belgium",
-            "state": "student",
-            "favorite": "fivem"
+            "status": "student",
+            "favorite": "fivem",
+            "job": "consultant",
         }
     ]
 }
 ```
 
 💼 **Experience**
-
-- FiveM developer for: Duinloop | BelgiumRP | Het Plein | Burgerveen | BelgiumRP V2 | Lumio Studio |Toxcity
-- Own projects: FiveM server, websites, react native applications, ...
-- Node | Lua | JS, HTML, CSS | Vue | React Native | C# | Java | SQL | Git
-
-🔨 **Projects**
-
-- BelgiumRP V2
-- Het Plein Roleplay
-- ToxcityRP
-- Lumio Studio
+- FiveM developer for: Duinloop | Burgerveen |Toxcity | Streetkings Drifting | The Worldz End | Lumio Studio
+- Own projects: BelgiumRP (V1,V2,V3) | Het Plein | ToxcityRP
+- Node | Frontend | Python, Lua | C#, Blazor, ASP.NET
+- Discord bots in JS and Python
