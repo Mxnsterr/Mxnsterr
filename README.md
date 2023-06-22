@@ -26,7 +26,7 @@
 ```
 
 💼 **Experience**
-- FiveM developer for: Duinloop | Burgerveen |Toxcity | Streetkings Drifting | The Worldz End | Lumio Studio
-- Own projects: BelgiumRP (V1,V2,V3) | Het Plein | ToxcityRP
+- FiveM developer for: Duinloop | Burgerveen | ToxcityRP | Streetkings Drifting | The Worldz End | Lumio Studio
+- Own projects: BelgiumRP (V1,V2,V3) | Het Plein
 - Node | Frontend | Python, Lua | C#, Blazor, ASP.NET
 - Discord bots in JS and Python
