@@ -17,9 +17,9 @@
             "name": "jens",
             "age": "23",
             "country": "belgium",
-            "status": "student",
+            "status": "working",
             "favorite": "fivem",
-            "job": "consultant",
+            "job": "c# backend dev consultant",
         }
     ]
 }
