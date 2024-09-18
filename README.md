@@ -7,7 +7,7 @@
 🎓 **Degrees**
 - Degree programming with distinction
 - Certificate business management
-- Professional Bachelor Applied Computer Science (ongoing)
+- Professional Bachelor Applied Computer Science
 
 
 ```javascript
