@@ -14,7 +14,7 @@
             "country": "belgium",
             "status": "working",
             "favorite": "fivem",
-            "job": "c# backend dev consultant",
+            "job": "development consultant",
         }
     ]
 }
